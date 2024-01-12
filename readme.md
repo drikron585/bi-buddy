@@ -1,0 +1,1 @@
+The idea is to make an app to enable BI teams to share adhoc code and information on databases
