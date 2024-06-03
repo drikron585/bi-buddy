@@ -1,0 +1,12 @@
+{
+  "name": "bi-buddy",
+  "version": "1.0.0",
+  "description": "The idea is to make an app to enable BI teams to share adhoc code and information on databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
